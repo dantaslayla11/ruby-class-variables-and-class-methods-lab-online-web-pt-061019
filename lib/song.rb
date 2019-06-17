@@ -27,5 +27,6 @@ class Song
      @@genres.uniq
    end
  
+  @@genres = []
 end 
 
