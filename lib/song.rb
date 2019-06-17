@@ -27,6 +27,6 @@ class Song
      @@genres.uniq
    end
  
-  @@genres = []
+   genre_count = {}
 end 
 
