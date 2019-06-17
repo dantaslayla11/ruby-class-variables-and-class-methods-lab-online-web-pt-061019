@@ -8,7 +8,7 @@ class Song
     
  end 
  
-  def @@count = 0
+   @@count = 0
   
   def self.count 
     @@count
